@@ -9,6 +9,7 @@ Ultraviolet works by intercepting HTTP requests with a service worker script tha
 ## Quick Deployments
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/heyboisslickbackhere/no)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/titaniumnetwork-dev/Ultraviolet-Node)
+[![Deploy to glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://glitch.com/edit/#!/import/github/heyboisslickbackhere/no)
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
